@@ -36,7 +36,7 @@ docker run -d \
 
 The values accepted by `LOG_LEVEL` are `error`, `warning`, `info`, `debug` and `notset`, default is `info`.
 
-the value of `MAX_FILE_SIZE` must be specified in human-readable format, i.e. the value followed by the unit of measurement (`B`, `KB`, `MB`, `GB` or `TB`).
+The value of `MAX_FILE_SIZE` must be specified in human-readable format, i.e. the value followed by the unit of measurement (`B`, `KB`, `MB`, `GB` or `TB`).
 
 ## How to make service requests
 
