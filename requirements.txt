@@ -1,0 +1,6 @@
+langdetect==1.0.9
+textract==1.6.5
+waitress==2.1.2
+Flask==2.0.3
+Flask-Compress==1.11
+Flask-Cors==3.0.10
