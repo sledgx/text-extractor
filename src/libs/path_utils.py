@@ -1,5 +1,4 @@
 import tempfile
-from langdetect import detect
 
 
 class PathUtils:
